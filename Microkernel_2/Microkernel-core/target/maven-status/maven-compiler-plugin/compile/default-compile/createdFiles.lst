@@ -1,0 +1,12 @@
+co\unicauca\microkernel\presentation\Console.class
+co\unicauca\microkernel\presentation\GUIAddProductViewController$1.class
+co\unicauca\microkernel\app\Application.class
+co\unicauca\microkernel\business\ServiceModel.class
+co\unicauca\microkernel\plugin\manager\MeasurePluginManager.class
+co\unicauca\microkernel\business\MeasureService.class
+co\unicauca\microkernel\plugin\manager\Subject.class
+co\unicauca\microkernel\presentation\GUIListProductViewController2.class
+co\unicauca\microkernel\presentation\GUIAddProductViewController$2.class
+co\unicauca\microkernel\plugin\manager\Observer.class
+co\unicauca\microkernel\presentation\GUIAddProductViewController.class
+co\unicauca\microkernel\presentation\GUIListProductViewController.class
